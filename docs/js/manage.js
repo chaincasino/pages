@@ -1,4 +1,4 @@
-//built at 2018-08-06 18:51:09
+//built at 2018-08-07 20:58:45
 let Definitions = {
     infuraProviderUrl: "https://ropsten.infura.io/qePENhv4I7T4cLaAUOVr"
 };
